@@ -1,0 +1,10 @@
+{
+  "ids": {
+    "User": 2
+  },
+  "models": {
+    "User": {
+      "1": "{\"email\":\"test@mail.com\",\"password\":\"1234\",\"create_time\":\"2020-05-25T13:31:52.241Z\",\"id\":1}"
+    }
+  }
+}
